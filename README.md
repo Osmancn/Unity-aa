@@ -1,3 +1,3 @@
 # Unity-aa
-##Oyunun Amacı##
+##Oyunun Amacı
 Ortadaki dönen cembere belirli sayıdaki cubukları birbirlerine deydirmeden atmak
